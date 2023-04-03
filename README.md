@@ -1,6 +1,6 @@
 # components-1
 
-You can previe this site on:
+You can preview this site on:
 
 https://vuelessons.netlify.app/
 
